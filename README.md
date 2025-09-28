@@ -1,7 +1,7 @@
 # ExpanDrive – Reliable Cloud Drive Mounting Tool
 
 <div align="center">  
-<img src="https://www.expandrive.com/assets/images/expandrive-icon-256x256.png" alt="ExpanDrive Logo" width="256" height="256">  
+<img src="https://www.cloudwards.net/wp-content/uploads/2021/04/ExpanDrive-logo.png" alt="ExpanDrive Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
@@ -14,7 +14,7 @@
 
 ## What is ExpanDrive?
 
-![ExpanDrive Cloud Integration](https://www.expandrive.com/assets/images/screenshots/mac-finder.png)  
+![ExpanDrive Cloud Integration](https://static.filehorse.com/screenshots-mac//backup-and-recovery/expandrive-mac-screenshot-01.png)  
 
 ExpanDrive is a professional-grade application that transforms how you interact with cloud storage. By mounting remote drives directly into Finder, it provides instant access to files stored on Google Drive, Dropbox, SharePoint, Backblaze, and other services. This tool eliminates the need for manual syncing and allows you to stream files on demand.  
 
